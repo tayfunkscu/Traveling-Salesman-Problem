@@ -1,6 +1,6 @@
 === Gezgin Kargo Problemi
 
-Gezgin kargo problemine çözüm üretmek için geliştirilmiş bir uygulamadır. Çıkış şehri Kocaeli olan bir kargo aracını için en kısa dağıtım ve dönüş güzergahı oluşturulur. Gidilecek şehirlerin sıralaması ve mesafeler konsol üzerinde gösterilir. Harita üzerinde ise gidilecek oluşturulan rotaların görselleştirilmesi yapılır.
+Gezgin kargo problemine çözüm üretmek için geliştirilmiş bir uygulamadır. Çıkış şehri Kocaeli olan bir kargo aracın için en kısa dağıtım ve dönüş güzergahı oluşturulur. Gidilecek şehirlerin sıralaması ve mesafeler konsol üzerinde gösterilir. Harita üzerinde ise gidilecek oluşturulan rotaların görselleştirilmesi yapılır.
 
 Uygulama sehirler.txt ve komsular.txt dosyalarını kullanarak şehir ve komşuluk ilişkilerini graf veri yapısı üzerinde tutmaktadır.
 
